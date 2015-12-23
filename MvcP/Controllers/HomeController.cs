@@ -12,6 +12,8 @@ namespace MvcP.Controllers
         {
             ViewBag.Message = "Welcome to ASP.NET MVC!";
 
+            //prueba de configuracion de proyecto con repositorio git
+
             return View();
         }
 
